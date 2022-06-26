@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there 👋 :sunny:
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently attending front-end development course.  
-- 🌱 I’m currently learning Javascript language.
+- 🌱 I’m currently learning Javascript language. :hatching_chick:
 
 - 📫 How to reach me: fz.jamali@gmail.com :email:
 
