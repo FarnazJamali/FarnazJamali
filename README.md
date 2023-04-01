@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://codepen.io/farnaz_jml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="farnaz_jml" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/farnaz-jamali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farnaz-jamali" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/f-jamali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="f-jamali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
